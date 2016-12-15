@@ -4,7 +4,7 @@ This is an implementation of the naive bayes algorithm for simeple sentiment cla
 
 The dataset used is at: http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz. 
 
-The initial vocabulary of positive and negative words used is at: http://www.cs.uic.edu/liub/FBS/opinion-lexicon-English.rar
+The initial vocabulary of positive and negative words used is at: http://www.cs.uic.edu/~liub/FBS/opinion-lexicon-English.rar
 
 Three versions are experimented with.
 
