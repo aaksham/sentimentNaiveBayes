@@ -2,7 +2,7 @@
 
 This is an implementation of the naive bayes algorithm for simeple sentiment classification. 
 
-The dataset used is at: http://www.cs.cornell.edu/people/pabo/movie-review-data/review polarity.tar.gz. 
+The dataset used is at: http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz. 
 
 The initial vocabulary of positive and negative words used is at: http://www.cs.uic.edu/liub/FBS/opinion-lexicon-English.rar
 
