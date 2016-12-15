@@ -1,6 +1,6 @@
 # sentimentNaiveBayes
 
-This is an implementation of the naive bayes algorithm for simeple sentiment classification. 
+This is an implementation of the naive bayes algorithm for simple sentiment classification. 
 
 The dataset used is at: http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz. 
 
